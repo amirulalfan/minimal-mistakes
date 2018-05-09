@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Noted Word"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "OtakuGeeks"
+description              : "notes website."
 url                      : "https://amirulalfan.github.io"
 baseurl                  : "/notes"
 repository               : "mmistakes/minimal-mistakes"
